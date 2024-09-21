@@ -20,3 +20,4 @@ http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20While%20l
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B_289)_File_Handling_%26_Exception_Handling.ipynb
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/Introduction%20to%20python%20(B-289)%20(19-02-2024)-checkpoint.ipynb
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/Python%20(B-289)%20code%20file%20(20-02-2024).ipynb
+http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/Strings%20revision%20II%20(26-02-2024).ipynb
