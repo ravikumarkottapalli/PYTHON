@@ -15,3 +15,4 @@ http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Problem%2
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Sets%20and%20builtin%20methods%20(06-03-2024).ipynb
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20String%20methods%20and%20Introduction%20to%20Lists%20(22-02-2024).ipynb
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Strings%20revision%20III.ipynb
+http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Tuples%20and%20Introdution%20to%20Sets%20(05-03-2024).ipynb
