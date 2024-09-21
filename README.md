@@ -14,3 +14,4 @@ http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Problem%2
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Problem%20solving%2C%20modularizing%20code%2C%20lambda%2C%20map%20and%20reduce%20functions%20(19-03-2024).ipynb
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Sets%20and%20builtin%20methods%20(06-03-2024).ipynb
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20String%20methods%20and%20Introduction%20to%20Lists%20(22-02-2024).ipynb
+http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Strings%20revision%20III.ipynb
