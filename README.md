@@ -6,3 +6,4 @@ http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Dictionar
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20elif%20ladder%2C%20nested%20if%20and%20Introduction%20to%20loops.ipynb
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20for%20loop%20(14-03-2024).ipynb
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Functions%20(15-03-2024).ipynb
+http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Inheritance%20(28-03-2024).ipynb
