@@ -11,3 +11,4 @@ http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20List%20Bu
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Lists%2http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Logical%20operators%2C%20if%2C%20if-else%20(11-03-2024).ipynb0and%20builtin%20methods%20(29-02-2024).ipynb
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20OOPs%20(22-03-2024).ipynb
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Problem%20Solving%20%26%20Positional%20arguements%20(18-03-2024).ipynb
+http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Problem%20solving%2C%20modularizing%20code%2C%20lambda%2C%20map%20and%20reduce%20functions%20(19-03-2024).ipynb
