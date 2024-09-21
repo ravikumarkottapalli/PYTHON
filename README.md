@@ -8,3 +8,4 @@ http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20for%20loo
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Functions%20(15-03-2024).ipynb
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Inheritance%20(28-03-2024).ipynb
 http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20List%20Builtin%20methods%20and%20Introduction%20to%20tuples%20(04-03-2024).ipynb
+http://localhost:8888/notebooks/DATA%20SCIENCE/Python/Python/(B-289)%20Lists%20and%20builtin%20methods%20(29-02-2024).ipynb
